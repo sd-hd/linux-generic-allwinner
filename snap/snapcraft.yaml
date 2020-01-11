@@ -1,4 +1,4 @@
-name: linux-generic-allwinner
+name: linux-generic-allwinner-test-sdhd
 adopt-info: kernel
 summary: The Ubuntu generic Linux kernel for allwinner
 description: This Ubuntu generic Linux kernel built for the allwinner architecture
